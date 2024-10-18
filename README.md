@@ -1,10 +1,10 @@
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=TQtong)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TQtong&theme=gitdimmed&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
-![](https://raw.githubusercontent.com/TQtong/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/TQtong/github-stats-transparent/output/generated/languages.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TQtong&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **TQtong/TQtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
