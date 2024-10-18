@@ -6,7 +6,6 @@
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/TQtong/TQtong/output/ocean.gif)
 
 <!--
 **TQtong/TQtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
