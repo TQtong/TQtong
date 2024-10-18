@@ -11,6 +11,9 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!--
 **TQtong/TQtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
