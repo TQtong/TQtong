@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tong</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=53d8d6&lines=Hi%2C+my+name+is+Tong;I+live+in+China)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=eeb439&lines=Hi%2C+my+name+is+Tong;I+live+in+China)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TQtong&theme=gitdimmed&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
