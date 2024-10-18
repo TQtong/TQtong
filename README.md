@@ -3,8 +3,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true" alt="Danny Koppenhagens Github Stats"></img>
 
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/itgoyo/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/TQtong/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/TQtong/github-stats-transparent/output/generated/languages.svg)
 <!--
 **TQtong/TQtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
