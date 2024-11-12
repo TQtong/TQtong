@@ -78,7 +78,7 @@
   </a>
   <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img alt="C++" src="https://img.shields.io/csharp-original.svg?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img alt="C++" src="https://img.shields.io/csharp-original.svg?style=flat-square&logo=csharp&logoColor=white" />
   </a>
 Update README.md
 
