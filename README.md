@@ -59,6 +59,16 @@
     <img alt="Openlayers" src="https://img.shields.io/badge/-Openlayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
   </a>
 
+  <!-- Mapbox -->
+  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
+  </a>
+
+  <!-- MapLibre -->
+  <a href="https://maplibre.org/" target="_blank" rel="noreferrer"> 
+    <img alt="MapLibre" src="https://img.shields.io/badge/-MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" />
+  </a>
+
   <!-- Cesium -->
   <a href="https://cesium.com/" target="_blank" rel="noreferrer"> 
     <img alt="Cesium" src="https://img.shields.io/badge/-Cesium-6CADDF?style=flat-square&logo=cesium&logoColor=white" />
