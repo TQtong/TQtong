@@ -132,7 +132,7 @@
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-        <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+        <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   </a>
 
 Update README.md
