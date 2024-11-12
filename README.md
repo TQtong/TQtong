@@ -216,15 +216,11 @@
   </a>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TQtong&show_icons=true&theme=cobalt&hide_border=true" alt="TQtong" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&locale=en" alt="TQtong" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TQtong&" alt="TQtong" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TQtong&show_icons=true&theme=cobalt&hide_border=true" alt="TQtong" />
 </p>
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&locale=en" alt="TQtong" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TQtong&" alt="TQtong" />
-</p>
-
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake.svg#gh-light-mode-only)
