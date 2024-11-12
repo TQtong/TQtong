@@ -60,8 +60,15 @@ Update README.md
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img alt="Blender" src="https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
   </a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  </a>
+  <!-- Apache ECharts -->
+  <a href="https://echarts.apache.org/en/index.html" target="_blank" rel="noreferrer"> 
+    <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache_ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" />
+  </a>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
