@@ -64,8 +64,15 @@
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   </a>
 
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> 
+  <!-- Prettier -->
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer"> 
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  </a>
+
+  <!-- Vite -->
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> 
+  </a>
 
   <!-- Webpack -->
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
