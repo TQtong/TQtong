@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h2 align="left">Main languages and tools:</h2>
+<h2 align="left">Main languages and tools at the present stage:</h2>
 
 <p align="left">
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -76,10 +76,13 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   </a>
+  <!-- C# -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+    <img alt="C++" src="https://img.shields.io/csharp-original.svg?style=flat-square&logo=cplusplus&logoColor=white" />
+  </a>
 Update README.md
 
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
