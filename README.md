@@ -44,14 +44,44 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   </a>
 
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <!-- Nuxt.js -->
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
   </a>
 
-  <!-- Nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <!-- Leaflet -->
+  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+  </a>
+
+  <!-- Openlayers -->
+  <a href="https://openlayers.org/" target="_blank" rel="noreferrer"> 
+    <img alt="Openlayers" src="https://img.shields.io/badge/-Openlayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
+  </a>
+
+  <!-- Cesium -->
+  <a href="https://cesium.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Cesium" src="https://img.shields.io/badge/-Cesium-6CADDF?style=flat-square&logo=cesium&logoColor=white" />
+  </a>
+
+  <!-- D3.js -->
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
+    <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
+  </a>
+
+  <!-- Three.js -->
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+    <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  </a>
+
+  <!-- Unity -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=pink" />
+  </a>
+
+  <!-- Unreal Engine -->
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+    <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
   </a>
 
   <!-- Express -->
@@ -64,9 +94,34 @@
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   </a>
 
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  </a>
+
+  <!-- Nodejs -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
+  </a>
+
   <!-- Prettier -->
   <a href="https://prettier.io/" target="_blank" rel="noreferrer"> 
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  </a>
+
+  <!-- Rollup -->
+  <a href="https://rollupjs.org/" target="_blank" rel="noreferrer"> 
+    <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
+  </a>
+
+  <!-- Babel -->
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
+  </a>
+
+  <!-- Jest -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
   </a>
 
   <!-- Vite -->
@@ -82,38 +137,6 @@
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </a>
-
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
-
-  <!-- Babel -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
-  </a>
-
-  <!-- Jest -->
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  </a>
-  
-  <!-- Nuxt.js -->
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  </a>
-
-  <!-- D3.js -->
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-    <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-  </a>
-
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=pink" />
-  </a>
-
-  <!-- Unreal Engine -->
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
   </a>
 
   <!-- Git -->
