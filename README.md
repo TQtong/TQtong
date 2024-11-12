@@ -45,6 +45,14 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   </a>
+  <!-- Jest -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=	jest&logoColor=white" />
+  </a>
+  <!-- Nuxt.js -->
+  <a href="https://nuxt.com/ target="_blank" rel="noreferrer"> 
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  </a>
 </p>
 
 <h2 align="left">Other languages and tools:</h2>
@@ -88,7 +96,6 @@ Update README.md
 
 
 
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
