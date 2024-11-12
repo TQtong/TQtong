@@ -84,6 +84,16 @@
     <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
   </a>
 
+  <!-- WebGL -->
+  <a href="https://www.khronos.org/webgl/" target="_blank" rel="noreferrer"> 
+    <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+  </a>
+
+  <!-- WebGPU -->
+  <a href="https://www.w3.org/TR/webgpu/" target="_blank" rel="noreferrer"> 
+    <img alt="WebGPU" src="https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white" />
+  </a>
+
   <!-- Express -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
