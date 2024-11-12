@@ -108,7 +108,7 @@
 
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white" />
+    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=pink" />
   </a>
 
   <!-- Unreal Engine -->
