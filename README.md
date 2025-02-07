@@ -261,7 +261,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&locale=en" alt="TQtong" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TQtong&" alt="TQtong" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TQtong&show_icons=true&theme=cobalt&hide_border=true" alt="TQtong" />
 </p>
 
