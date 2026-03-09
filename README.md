@@ -23,9 +23,7 @@
 </p>
 
 <!-- 奖杯展示 -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=TQtong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophy"/>
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TQtong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
