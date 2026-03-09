@@ -1,284 +1,178 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30">, Nice to see you.</h1>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+GB+S&size=35&duration=3500&pause=700&color=F7E707D7&center=true&vCenter=true&height=75&width=1300px&lines=my+name+is+Tong;I+live+in+China)](https://git.io/typing-svg)
+<!-- 顶部波浪装饰 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20Tong's%20Digital%20Garden%20🌱&descAlignY=52&descSize=18"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TQtong&label=Profile%20views&color=0e75b6&style=flat" alt="TQtong" /> </p>
+<!-- 打字动画 - 修复版本 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TQtong&theme=gitdimmed&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="TQtong" /></a> </p>
+<!-- 可爱的分隔线 -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<h2 align="left">Current status</h2>
-
-- 🔭 I’m currently working on **gis**
-
-- 🌱 I’m currently learning **shader**
-
-- 📫 How to reach me **tqtong612@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<!-- 社交徽章 -->
+<p>
   <a href="https://github.com/TQtong">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-TQtong-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
   </a>
+  <a href="mailto:tqtong612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tqtong612-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=TQtong&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<h2 align="left">Main languages and tools at the present stage:</h2>
+<!-- 奖杯展示 -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=TQtong&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophy"/>
+</a>
 
-<p align="left">
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  </a>
+</div>
 
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  </a>
+<!-- 关于我 -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  About Me
+</h2>
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  </a>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  </a>
+```yaml
+name: Tong
+location: China 🇨🇳
+current_focus: GIS Development & 3D Visualization
+learning: Shader Programming ✨
+interests:
+  - 🗺️ Geographic Information Systems
+  - 🎨 WebGL / WebGPU Graphics
+  - 🎮 Game Development
+  - 🌍 Digital Earth & 3D Globe
+hobbies:
+  - 💻 Coding cool stuff
+  - 🎯 Learning new technologies
+  - 🎮 Gaming
+```
 
-  <!-- Nuxt.js -->
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  </a>
+<br clear="right"/>
 
-  <!-- Leaflet -->
-  <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Leaflet" src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-  </a>
+<!-- 技术栈 -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  Tech Stack
+</h2>
 
-  <!-- Openlayers -->
-  <a href="https://openlayers.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Openlayers" src="https://img.shields.io/badge/-Openlayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white" />
-  </a>
-
-  <!-- Mapbox -->
-  <a href="https://www.mapbox.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Mapbox" src="https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
-  </a>
-
-  <!-- MapLibre -->
-  <a href="https://maplibre.org/" target="_blank" rel="noreferrer"> 
-    <img alt="MapLibre" src="https://img.shields.io/badge/-MapLibre-396CB2?style=flat-square&logo=maplibre&logoColor=white" />
-  </a>
-
-  <!-- Cesium -->
-  <a href="https://cesium.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Cesium" src="https://img.shields.io/badge/-Cesium-6CADDF?style=flat-square&logo=cesium&logoColor=white" />
-  </a>
-
-  <!-- D3.js -->
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-    <img alt="D3.js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-  </a>
-
-  <!-- Three.js -->
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-  </a>
-
-  <!-- Unity -->
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=pink" />
-  </a>
-
-  <!-- Unreal Engine -->
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
-  </a>
-
-  <!-- WebGL -->
-  <a href="https://www.khronos.org/webgl/" target="_blank" rel="noreferrer"> 
-    <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-  </a>
-
-  <!-- WebGPU -->
-  <a href="https://www.w3.org/TR/webgpu/" target="_blank" rel="noreferrer"> 
-    <img alt="WebGPU" src="https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square&logo=webgpu&logoColor=white" />
-  </a>
-
-  <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-  </a>
-
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  </a>
-
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  </a>
-
-  <!-- Nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  </a>
-
-  <!-- Prettier -->
-  <a href="https://prettier.io/" target="_blank" rel="noreferrer"> 
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  </a>
-
-  <!-- Rollup -->
-  <a href="https://rollupjs.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" />
-  </a>
-
-  <!-- Babel -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />
-  </a>
-
-  <!-- Jest -->
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
-    <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-  </a>
-
-  <!-- Vite -->
-  <a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
-    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> 
-  </a>
-
-  <!-- Webpack -->
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  </a>
-
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  </a>
-
-  <!-- NGINX -->
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-  </a>
-  
-  <!-- GNU Bash -->
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img alt="GNU Bash" src="https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  </a>
-  
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-  </a>
+<details open>
+<summary><b>🗺️ GIS & Mapping</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Cesium-6CADDF?style=for-the-badge&logo=cesium&logoColor=white" alt="Cesium"/>
+  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre"/>
+  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
 </p>
+</details>
 
-<h2 align="left">Other languages and tools:</h2>
-
-<p align="left"> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  </a>
-
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img alt="C#" src="https://img.shields.io/badge/csharp-original.svg?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjOUI0Rjk2IiBkPSJNMTE1LjQgMzAuN0w2Ny4xIDIuOWMtLjgtLjUtMS45LS43LTMuMS0uNy0xLjIgMC0yLjMuMy0zLjEuN2wtNDggMjcuOWMtMS43IDEtMi45IDMuNS0yLjkgNS40djU1LjdjMCAxLjEuMiAyLjQgMSAzLjVsMTA2LjgtNjJjLS42LTEuMi0xLjUtMi4xLTIuNC0yLjd6Ii8+PHBhdGggZmlsbD0iIzY4MjE3QSIgZD0iTTEwLjcgOTUuM2MuNS44IDEuMiAxLjUgMS45IDEuOWw0OC4yIDI3LjljLjguNSAxLjkuNyAzLjEuNyAxLjIgMCAyLjMtLjMgMy4xLS43bDQ4LTI3LjljMS43LTEgMi45LTMuNSAyLjktNS40VjM2LjFjMC0uOS0uMS0xLjktLjYtMi44bC0xMDYuNiA2MnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODUuMyA3Ni4xQzgxLjEgODMuNSA3My4xIDg4LjUgNjQgODguNWMtMTMuNSAwLTI0LjUtMTEtMjQuNS0yNC41czExLTI0LjUgMjQuNS0yNC41YzkuMSAwIDE3LjEgNSAyMS4zIDEyLjVsMTMtNy41Yy02LjgtMTEuOS0xOS42LTIwLTM0LjMtMjAtMjEuOCAwLTM5LjUgMTcuNy0zOS41IDM5LjVzMTcuNyAzOS41IDM5LjUgMzkuNWMxNC42IDAgMjcuNC04IDM0LjItMTkuOGwtMTIuOS03LjZ6TTk3IDY2LjJsLjktNC4zaC00LjJ2LTQuN2g1LjFMMTAwIDUxaDQuOWwtMS4yIDYuMWgzLjhsMS4yLTYuMWg0LjhsLTEuMiA2LjFoMi40djQuN2gtMy4zbC0uOSA0LjNoNC4ydjQuN2gtNS4xbC0xLjIgNmgtNC45bDEuMi02aC0zLjhsLTEuMiA2aC00LjhsMS4yLTZoLTIuNHYtNC43SDk3em00LjggMGgzLjhsLjktNC4zaC0zLjhsLS45IDQuM3oiLz48L3N2Zz4=&logoColor=white" />
-  </a>
-
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  </a>
-
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  </a>
-
-  <!-- Apache ECharts -->
-  <a href="https://echarts.apache.org/en/index.html" target="_blank" rel="noreferrer"> 
-    <img alt="Apache ECharts" src="https://img.shields.io/badge/-Apache_ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" />
-  </a>
-  
-  <!-- Chart.js -->
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img alt="Chart.js" src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-  </a>
-
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  </a>
-
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  </a>
-
-  <!-- Electron -->
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-    <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  </a>
-
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </a>
-
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  </a>
+<details open>
+<summary><b>🎨 3D & Graphics</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/>
+  <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
 </p>
+</details>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&locale=en" alt="TQtong" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TQtong&show_icons=true&theme=cobalt&hide_border=true" alt="TQtong" />
+<details open>
+<summary><b>💻 Languages & Frameworks</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
+</details>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake.svg#gh-light-mode-only)
+<details>
+<summary><b>🛠️ Tools & DevOps</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+</details>
 
-<!--
-**TQtong/TQtong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary><b>📊 Data Visualization</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+</p>
+</details>
 
-Here are some ideas to get you started:
+<details>
+<summary><b>🗄️ Databases & Backend</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...👋
--->
+<details>
+<summary><b>🔧 Other Skills</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+</details>
+
+<!-- GitHub 统计 -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+  GitHub Stats
+</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TQtong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TQtong&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+</div>
+
+<!-- 贪吃蛇 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/TQtong/TQtong/output/github-snake.svg">
+  </picture>
+</div>
+
+<!-- 底部波浪 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<!-- 彩蛋 -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
+</div>
