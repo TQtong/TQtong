@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- 顶部波浪装饰 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Tong&fontSize=80&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=GIS%20Developer%20%7C%203D%20Visualization%20%7C%20Shader%20Magic&descAlignY=55&descSize=18&descColor=8B949E"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Tong&fontSize=70&fontColor=6AD3F7&animation=fadeIn&fontAlignY=30&desc=GIS%20Developer%20%7C%203D%20Visualization%20%7C%20Shader%20Magic&descAlignY=55&descSize=16&descColor=8B949E"/>
+
+<!-- 欢迎语 -->
+<h3>Hi <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="28"/>, Nice to see you!</h3>
 
 <!-- 打字动画 -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +23,7 @@
 </p>
 
 <!-- 分隔线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
@@ -95,7 +98,7 @@ const tong = {
 </div>
 
 <!-- 分隔线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub 统计 -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
@@ -130,7 +133,7 @@ const tong = {
 </div>
 
 <!-- 分隔线 -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- 随机开发者引言 -->
 <div align="center">
