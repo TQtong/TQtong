@@ -160,7 +160,7 @@ hobbies:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TQtong&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=TQtong&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7&type=svg&mode=weekly" alt="GitHub Streak"/>
 </div>
 
 <!-- 贪吃蛇 -->
