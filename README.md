@@ -19,7 +19,7 @@
   <a href="https://github.com/TQtong">
     <img src="https://img.shields.io/badge/GitHub-TQtong-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
   </a>
-  <a href="mailto:tqtong612@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tqtong612@gmail.com">
     <img src="https://img.shields.io/badge/Email-tqtong612-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=TQtong&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
