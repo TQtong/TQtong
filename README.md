@@ -1,166 +1,123 @@
 <div align="center">
 
 <!-- 顶部波浪装饰 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20Tong's%20Digital%20Garden%20🌱&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=200&section=header&text=Tong&fontSize=80&fontColor=6AD3F7&animation=fadeIn&fontAlignY=35&desc=GIS%20Developer%20%7C%203D%20Visualization%20%7C%20Shader%20Magic&descAlignY=55&descSize=18&descColor=8B949E"/>
 
 <!-- 打字动画 -->
-<p>
-  <img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30"/>
-</p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%91%8B+Hey!+Welcome+to+my+profile;%F0%9F%8C%8F+Building+Digital+Earth+%26+3D+Globe;%F0%9F%8E%AE+Love+Shaders+%26+Graphics+Magic;%F0%9F%9A%80+Always+learning+something+new" alt="Typing SVG" />
 </a>
-
-<!-- 可爱的分隔线 -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <!-- 社交徽章 -->
 <p>
   <a href="https://github.com/TQtong">
-    <img src="https://img.shields.io/badge/GitHub-TQtong-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-TQtong-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tqtong612@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tqtong612-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-tqtong612-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TQtong&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TQtong&label=Profile+Views&color=6AD3F7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- 奖杯展示 -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=TQtong&theme=algolia&column=4&margin-w=15&margin-h=15" alt="Trophy"/>
-</a>
+<!-- 分隔线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
 <!-- 关于我 -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
-</h2>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
 
-```yaml
-name: Tong
-location: China 🇨🇳
-current_focus: GIS Development & 3D Visualization
-learning: Shader Programming ✨
-interests:
-  - 🗺️ Geographic Information Systems
-  - 🎨 WebGL / WebGPU Graphics
-  - 🎮 Game Development
-  - 🌍 Digital Earth & 3D Globe
-hobbies:
-  - 💻 Coding cool stuff
-  - 🎯 Learning new technologies
-  - 🎮 Gaming
+```javascript
+const tong = {
+  location: "China 🇨🇳",
+  role: "GIS Developer",
+  focus: ["3D Visualization", "WebGL/WebGPU", "Shader Programming"],
+  
+  currently: {
+    learning: "Advanced Shader Techniques ✨",
+    building: "Digital Earth Applications 🌍",
+    exploring: "Real-time Graphics 🎨"
+  },
+  
+  passions: [
+    "Geographic Information Systems 🗺️",
+    "Game Development 🎮", 
+    "Creating Visual Magic ✨"
+  ],
+  
+  funFact: "I turn coordinates into art! 🎯"
+};
 ```
 
-<br clear="right"/>
+<br clear="both"/>
 
 <!-- 技术栈 -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  Tech Stack
-</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
 
-<details open>
-<summary><b>🗺️ GIS & Mapping</b></summary>
-<br>
+<div align="center">
+
+### 🗺️ GIS & Mapping
 <p>
+  <img src="https://skillicons.dev/icons?i=threejs" alt="Three.js"/>
   <img src="https://img.shields.io/badge/Cesium-6CADDF?style=for-the-badge&logo=cesium&logoColor=white" alt="Cesium"/>
   <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre"/>
   <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox"/>
-  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white" alt="OpenLayers"/>
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
 </p>
-</details>
 
-<details open>
-<summary><b>🎨 3D & Graphics</b></summary>
-<br>
+### 🎨 3D & Graphics
 <p>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+  <img src="https://skillicons.dev/icons?i=threejs,unity,unreal,blender" alt="3D Tools"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/>
-  <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU"/>
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
-  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=w3c&logoColor=white" alt="WebGPU"/>
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL"/>
 </p>
-</details>
 
-<details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
-<br>
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxt,react,nodejs,python,cpp,cs,dotnet" alt="Languages"/>
 </p>
-</details>
 
-<details>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br>
+### 🛠️ Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=vite,webpack,docker,git,nginx,linux,vscode" alt="Tools"/>
 </p>
-</details>
 
-<details>
-<summary><b>📊 Data Visualization</b></summary>
-<br>
+### 📊 Data & Database
 <p>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" alt="D3.js"/>
-  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Databases"/>
 </p>
-</details>
 
-<details>
-<summary><b>🗄️ Databases & Backend</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-</p>
-</details>
-
-<details>
-<summary><b>🔧 Other Skills</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-</details>
-
-<!-- GitHub 统计 -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
-  GitHub Stats
-</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TQtong&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7"/>
 </div>
 
+<!-- 分隔线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- GitHub 统计 -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TQtong&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7&type=svg&mode=weekly" alt="GitHub Streak"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TQtong&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TQtong&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=TQtong&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TQtong&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+</div>
+
+<!-- 奖杯展示 -->
+<div align="center">
+  <img src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=TQtong&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
 </div>
 
 <!-- 贪吃蛇 -->
@@ -172,10 +129,17 @@ hobbies:
   </picture>
 </div>
 
-<!-- 底部波浪 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- 分隔线 -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- 彩蛋 -->
+<!-- 随机开发者引言 -->
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<!-- 底部波浪 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+build+something+cool!+%F0%9F%9A%80" alt="Footer"/>
 </div>
