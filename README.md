@@ -5,7 +5,7 @@
 
 <!-- 打字动画 - 修复版本 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=%F0%9F%91%8B+Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
 </a>
 
 <!-- 可爱的分隔线 -->
@@ -24,7 +24,7 @@
 
 <!-- 奖杯展示 -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=TQtong&theme=algolia&column=4&margin-w=15&margin-h=15" alt="Trophy"/>
+  <img src="https://github-profile-trophy-3xhuiaolz-ryo-ma-s-team.vercel.app/?username=TQtong&theme=algolia&column=4&margin-w=15&margin-h=15" alt="Trophy"/>
 </a>
 
 </div>
