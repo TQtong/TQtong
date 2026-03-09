@@ -3,9 +3,10 @@
 <!-- 顶部波浪装饰 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Welcome%20to%20Tong's%20Digital%20Garden%20🌱&descAlignY=52&descSize=18"/>
 
-<!-- 打字动画 - 修复版本 -->
+<!-- 打字动画 -->
+<img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="30" align="center"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=%F0%9F%91%8B+Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Hey!+I'm+Tong;%F0%9F%8C%8F+A+GIS+Developer+from+China;%F0%9F%8E%AE+Love+3D+%26+Shader+Magic" alt="Typing SVG" />
 </a>
 
 <!-- 可爱的分隔线 -->
